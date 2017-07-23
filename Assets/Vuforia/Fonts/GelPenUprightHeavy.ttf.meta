@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 90c99aaff87313c449ad959dee88910b
+timeCreated: 1495385387
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GelPenUpright
+  fontNames:
+  - GelPenUpright
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 83b877bf4826c4a47bfd9780308c19c7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

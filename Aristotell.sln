@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aristotell", "Assembly-CSharp.csproj", "{28F12B09-FB67-CB29-422A-3673FB69E783}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aristotell", "Assembly-CSharp-Editor.csproj", "{0035AA5C-DA71-E772-4311-C020E257D127}"
+EndProject
+Project("{48E3B652-3D7A-ED49-F3B3-5D3C04F8443A}") = "Aristotell", "Assembly-UnityScript-Editor-firstpass.unityproj", "{B36BA274-CD8E-D923-2C09-3E437E8E0652}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28F12B09-FB67-CB29-422A-3673FB69E783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F12B09-FB67-CB29-422A-3673FB69E783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F12B09-FB67-CB29-422A-3673FB69E783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F12B09-FB67-CB29-422A-3673FB69E783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0035AA5C-DA71-E772-4311-C020E257D127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0035AA5C-DA71-E772-4311-C020E257D127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0035AA5C-DA71-E772-4311-C020E257D127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0035AA5C-DA71-E772-4311-C020E257D127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B36BA274-CD8E-D923-2C09-3E437E8E0652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36BA274-CD8E-D923-2C09-3E437E8E0652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36BA274-CD8E-D923-2C09-3E437E8E0652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36BA274-CD8E-D923-2C09-3E437E8E0652}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
